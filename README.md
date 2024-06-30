@@ -11,7 +11,7 @@ I consider myself a beginner and am geeting my hands on and trying to understand
 - **Python**: My go-to language for scripting, automation, and web development.
 - **C**: The language that introduced me to low-level programming and system architecture.
 - **C++**: Enhanced my understanding of object-oriented programming and complex data structures.
-- **Java**: Currently exploring the intricacies of Java for enterprise-level applications.
+- **Java**: Currently exploring the intricacies of Java
 - **Flask**: Building lightweight web applications with Python.
 - **Django**: Switiching some of web applications from falsk to django and learning.
 - **HTML & CSS**: Crafting beautiful and responsive web pages.

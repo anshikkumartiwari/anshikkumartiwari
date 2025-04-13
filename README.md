@@ -6,7 +6,7 @@ Hello! I'm a second year CSE student pursuing B.Tech from VIT Chennai. My journe
 
 ## Languages and Frameworks
 
-I consider myself a beginner and am geeting my hands on and trying to understand bit of evrything I get a chance to. Though, heres something that I've seriosly worked on.
+I consider myself a beginner and am getting my hands on and trying to understand bit of evrything I get a chance to. Though, heres something that I've seriosly worked on.
 
 - **Python**: My primary language for scripting, automation, and web development.
 - **C**: The foundation of my understanding of low-level programming and system architecture.

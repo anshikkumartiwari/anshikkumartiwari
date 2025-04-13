@@ -37,7 +37,7 @@ https://anshikkumartiwari.github.io/webv/
 
 ## Get In Touch
 
-I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me through my GitHub profile or connect with me on [LinkedIn](www.linkedin.com/in/anshikkumartiwari).
+I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/anshikkumartiwari/).
 
 Thank you for visiting my profile!
 

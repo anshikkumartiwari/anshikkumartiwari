@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm **Anshik Kumar Tiwari** a second year CSE student pursuing B.Tech from Vellore Institute of Technology. My journey in programming began during my school days, and the initial thrill of writing code and seeing it come to life, and I knew that programming was the thing for me.
+Hello! I'm [**Anshik Kumar Tiwari**](https://anshikkumartiwari.github.io/) a second year CSE student pursuing B.Tech from Vellore Institute of Technology. My journey in programming began during my school days, and the initial thrill of writing code and seeing it come to life, and I knew that programming was the thing for me.
 
 ## Languages and Frameworks
 
